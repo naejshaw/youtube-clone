@@ -50,6 +50,10 @@ nav{
     gap: 10px;
 }
 
+#right ul li{
+    margin-right: 20px;
+}
+
 /* Main */
 
 main{
